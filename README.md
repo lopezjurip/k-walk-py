@@ -4,6 +4,7 @@ walks in a graph (2006)* from P. Dupont, J. Callut, G. Dooms, J.-N. Monette and 
 
 # Instructions
 
+* Install [numpy](https://github.com/numpy/numpy): `pip install numpy`.
 * Modify `main.py` and create your nodes (`V`), edges (`E`) and points of interest (`K`). 
 * Create an instance of `Graph` with those parameters.
 * Query `N_star` function with a starting point of interest.
